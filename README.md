@@ -7,7 +7,7 @@ A privacy-preserving, group-fair federated learning framework that mitigates bia
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)  
 2. [Installation & Prerequisites](#installation--prerequisites)  
@@ -30,7 +30,7 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
 - Computes **privacy-preserving group importance weights** via average conditional probabilities across clients.  
 - Applies a **modified multiplicative-weights algorithm** with an L1 regularizer to prevent weight explosion and improve worst-group performance.  
 - Enforces a **performance threshold** on the best-performing group to avoid degrading high-accuracy groups.  
-- Demonstrates superior worst-group true-positive-rate gains (up to +41%) on CIFAR-10, MNIST, Fashion-MNIST, USPS, SynthDigits, and MNIST-M without significant loss in overall accuracy :contentReference[oaicite:2]{index=2}.  
+- Demonstrates superior worst-group true-positive-rate gains (up to +41%) on CIFAR-10, MNIST, Fashion-MNIST, USPS, SynthDigits, and MNIST-M without significant loss in overall accuracy.  
 
 ---
 
