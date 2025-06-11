@@ -22,9 +22,9 @@ A privacy-preserving, group-fair federated learning framework that mitigates bia
 
 ---
 
-## 🌟 Introduction
+## Introduction
 
-Federated learning enables decentralized model training on heterogeneous edge devices without sharing raw data, preserving user privacy while aggregating local updates into a global model :contentReference[oaicite:0]{index=0}. However, variation in device quality and sensing environments introduces **feature heterogeneity**, causing global models to underperform on groups with noisier data and perpetuate bias :contentReference[oaicite:1]{index=1}.  
+Federated learning enables decentralized model training on heterogeneous edge devices without sharing raw data, preserving user privacy while aggregating local updates into a global model. However, variation in device quality and sensing environments introduces **feature heterogeneity**, causing global models to underperform on groups with noisier data and perpetuate bias.  
 
 We introduce a **Multiplicative Weights update with Regularization (MWR)** framework that:  
 - Computes **privacy-preserving group importance weights** via average conditional probabilities across clients.  
@@ -34,7 +34,7 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
 
 ---
 
-## 🚀 Installation & Prerequisites
+## Installation & Prerequisites
 
 1. **Clone the repository**  
    ```bash
