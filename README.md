@@ -14,9 +14,7 @@ A privacy-preserving, group-fair federated learning framework that mitigates bia
 3. [Data Preparation](#data-preparation)  
 4. [Configuration](#configuration)  
 5. [Usage](#usage)  
-   - [Training](#training)  
-   - [Evaluation](#evaluation)  
-   - [Visualization](#visualization)  
+   - [Training](#training)   
 6. [Experiments & Results](#experiments--results)  
 7. [Citation](#citation)  
 
@@ -49,3 +47,5 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
 3. **Install required packages**
    ```bash
    pip install -r requirements.txt
+
+## Usage
