@@ -42,3 +42,10 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
    cd mitigating-group-bias-in-fl
 
 2. **Create and activate a virtual environment**  
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate    # on Linux/macOS
+
+3. **Install required packages**
+   ```bash
+   pip install -r requirements.txt
