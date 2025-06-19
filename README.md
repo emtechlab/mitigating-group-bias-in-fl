@@ -55,4 +55,5 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
    cd src/
    ./run.sh
 
+The training outputs—model checkpoints, logs, and evaluation metrics—will be saved in the evaluation/ directory at the project root (e.g. ../evaluation/).
 
