@@ -40,3 +40,5 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
    ```bash
    git clone https://github.com/emtechlab/mitigating-group-bias-in-fl.git
    cd mitigating-group-bias-in-fl
+
+2. **Create and activate a virtual environment**  
