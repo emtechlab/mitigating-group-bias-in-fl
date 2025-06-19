@@ -49,3 +49,10 @@ We introduce a **Multiplicative Weights update with Regularization (MWR)** frame
    pip install -r requirements.txt
 
 ## Usage
+
+1. **Training**
+   ```bash
+   cd src/
+   ./run.sh
+
+
